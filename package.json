@@ -8,6 +8,7 @@
   "license": "BSD",
   "devDependencies": {},
   "dependencies": {
+    "xml2js": "~0.4.4",
     "xml4js": "~0.1.0",
     "request": "~2.37.0",
     "cli-color": "~0.3.2",
