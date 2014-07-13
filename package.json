@@ -1,0 +1,16 @@
+{
+  "name": "ChallengeValidator",
+  "version": "0.0.0",
+  "description": "This tool is designed to validate the challenges XML file and to convert it to JSON.",
+  "main": "challengevalidator.js",
+  "repository": "",
+  "author": "nickygerritsen@me.com",
+  "license": "BSD",
+  "devDependencies": {},
+  "dependencies": {
+    "xml4js": "~0.1.0",
+    "request": "~2.37.0",
+    "cli-color": "~0.3.2",
+    "libxmljs": "~0.10.0"
+  }
+}
